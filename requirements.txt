@@ -1,3 +1,2 @@
 streamlit
-bcrypt
-requests
+openai
